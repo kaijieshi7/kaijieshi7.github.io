@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kaijie Shi / Site Title"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Kaijie Shi"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Kaijie Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "St John's, Newfoundland, Canada"
-  employer         : "Memorial University of Newfoundland"
+  bio              : "Instead of complaining, take initiative to change your situation."
+  location         : "St John's, NL, Canada"
+  employer         : "Memorial University"
   uri              : # URL
   email            : "-----" 
 
